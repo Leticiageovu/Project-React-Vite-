@@ -23,7 +23,25 @@ Este é um projeto desenvolvido com React e Vite, proporcionando uma experiênci
 
 Este projeto é um exemplo de como integrar React com APIs, Tailwind CSS e Axios, criando interfaces dinâmicas e interativas.
 
+## 🚀 Como Rodar o Projeto
+
+  **1. Clone o repositório ou faça o download dos arquivos.**
+
+  **2. Abra o projeto no VS Code.**
+
+  **3. No terminal, navegue até a pasta do front-end e execute:**
+
+  **npm run dev**  # Inicia o front-end
+  
+  **4. No terminal, navegue até a pasta do back-end e execute:**
+   
+  **nodemon server.js**  # Inicia o back-end com Nodemon
+
+
+  
+
 Se quiser algo mais detalhado ou específico, me avise! 😊🚀
+
 
 ![tela inicial](https://github.com/user-attachments/assets/fd795ab9-f1b0-4a89-bc3a-6beae6903a4c)
 
